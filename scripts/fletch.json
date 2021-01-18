@@ -1,0 +1,25 @@
+[
+  {
+    "MouseX": 631,
+    "MouseY": 330,
+    "MouseClick": 1,
+    "Sleep": 0,
+    "End": 0
+  },
+
+  {
+    "MouseX": 677,
+    "MouseY": 331,
+    "MouseClick": 1,
+    "Sleep": 0,
+    "End": 0
+  },
+
+  {
+    "MouseX": 260,
+    "MouseY": 555,
+    "MouseClick": 1,
+    "Sleep": 0,
+    "End": 1
+  }
+]
